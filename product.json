@@ -4,34 +4,34 @@
         "price" : "$38.0",
         "description" : "Now when you say you need a cold one, you can mean it literally, with one (1) single refrigerated beverage at your fingertips ",
         "feature" : "capacity of one can at a time ",
-        "image": "img1.jpg"
+        "image": "desktopfridge.jpg"
 },
 {
     "title" : "A Baby Mop",
     "price" : "$25.30",
     "description" : "It's never too early to teach your children about chores, as evidenced by this suit that lets your baby mop the house for you ",
     "feature" : "Heavy weight, 100% cotton, pre shrunk t-shirt",
-    "image": "img2.jpeg"
+    "image": "babyMop.jpeg"
 },
 {
     "title" : "A cat carrier dress",
     "price" : "$16.99",
     "description" : "Bringing your cat around in a plastic carrier is so passé. If you need to keep your cat closer, you can always opt for this dress with a cat pouch instead ",
     "feature" : "Special Desigh, Fun wear, perfect gift ",
-    "image": "img3.jpeg"
+    "image": "catHolder.jpeg"
 },
 {
     "title" : "A dog wig",
     "price" : "$9.57",
     "description" : "Dogs deserve to feel every bit as stylish as their human counterparts. And fortunately, this wig can help them achieve that goal. ",
     "feature" : " confy inner net cap, soft and comfortable, elastic straps layout",
-    "image": "img4.jpg"
+    "image": "dogWig.jpg"
 },
 {
     "title" : "A bloody bath mat",
     "price" : "$12.96",
     "description" : "If you've ever dreamed of turning your bathroom into a scene from a horror movie, you're apparently not alone—and Amazon has the perfect accessory for you. ",
     "feature" : "Apears white when dry, the magic blood red colur activated by water ",
-    "image": "img5.jpg"
+    "image": "bloodymat.jpg"
 }
 ]
