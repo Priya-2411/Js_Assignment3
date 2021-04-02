@@ -4,7 +4,7 @@
         "price" : "$38.0",
         "description" : "Now when you say you need a cold one, you can mean it literally, with one (1) single refrigerated beverage at your fingertips ",
         "feature" : "capacity of one can at a time ",
-        "image": "desktopfridge.jpg"
+        "image": "desktopFridge.jpg"
 },
 {
     "title" : "A Baby Mop",
@@ -32,6 +32,6 @@
     "price" : "$12.96",
     "description" : "If you've ever dreamed of turning your bathroom into a scene from a horror movie, you're apparently not alone—and Amazon has the perfect accessory for you. ",
     "feature" : "Apears white when dry, the magic blood red colur activated by water ",
-    "image": "bloodymat.jpg"
+    "image": "bloodyMat.jpg"
 }
 ]
