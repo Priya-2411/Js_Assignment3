@@ -2,7 +2,7 @@ window.addEventListener("load", function(){ // action listener that is triggered
 
   // fetching json data from the URL
   function getJson(){
-     const JsonFileURL = "https://raw.githubusercontent.com/Priya-2411/Js_Assign3_Json/main/product.json";
+     const JsonFileURL = "https://raw.githubusercontent.com/Priya-2411/Js_Assignment3/main/product.json";
      
      fetch(JsonFileURL)
       .then(res => res.json())
